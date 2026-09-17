@@ -42,7 +42,7 @@ Desenvolvo e mantenho sistemas web de ponta a ponta: modelagem do banco, API, au
 
 ### 🚀 Projetos em destaque
 
-**SGE — Sistema de Gestão Empresarial e Financeira** · *repositório privado*
+**[SGE — Sistema de Gestão Empresarial e Financeira](https://github.com/Jaminteles/SGE)**
 ERP multiempresa completo, do banco à interface, entregue em **32 sprints**. Backend NestJS + Prisma + PostgreSQL com **131 requisitos em 18 módulos** (financeiro, compras, documentos fiscais, bancos com PIX/boleto/TED idempotentes, conciliação OFX/CSV/CNAB 240, contabilidade em partida dobrada, fiscal, dashboards e integrações), isolamento multiempresa por **Row Level Security**, RBAC com alçadas de aprovação e trilha de auditoria append-only. Interface **Angular 21 + PrimeNG** cobrindo os 18 módulos (74 telas), tema claro/escuro por design tokens, acessibilidade WCAG 2.1 AA auditada, testes E2E dos fluxos críticos, observabilidade com correlation id e esteira no GitHub Actions com imagem Docker/nginx.
 
 **[Almoxarife Web](https://github.com/Jaminteles/almoxarife-web)** · *em produção em [gilferalmoxarifado.com](https://gilferalmoxarifado.com)*
